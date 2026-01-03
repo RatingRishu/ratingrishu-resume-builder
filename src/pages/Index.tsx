@@ -226,7 +226,7 @@ export default function Index() {
             
             <div className="flex items-center gap-4">
               <a 
-                href="https://linkedin.com/in/rishabhkumar" 
+                href="https://linkedin.com/in/ratingrai62" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="h-10 w-10 rounded-full bg-secondary flex items-center justify-center hover:bg-primary/10 transition-colors"
